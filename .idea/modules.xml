@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/URI_1000/URI_1000.iml" filepath="$PROJECT_DIR$/URI_1000/URI_1000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1001/URI_1001.iml" filepath="$PROJECT_DIR$/URI_1001/URI_1001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1002/URI_1002.iml" filepath="$PROJECT_DIR$/URI_1002/URI_1002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1003/URI_1003.iml" filepath="$PROJECT_DIR$/URI_1003/URI_1003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1004/URI_1004.iml" filepath="$PROJECT_DIR$/URI_1004/URI_1004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1005/URI_1005.iml" filepath="$PROJECT_DIR$/URI_1005/URI_1005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1006/URI_1006.iml" filepath="$PROJECT_DIR$/URI_1006/URI_1006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1007/URI_1007.iml" filepath="$PROJECT_DIR$/URI_1007/URI_1007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1008/URI_1008.iml" filepath="$PROJECT_DIR$/URI_1008/URI_1008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1009/URI_1009.iml" filepath="$PROJECT_DIR$/URI_1009/URI_1009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1010/URI_1010.iml" filepath="$PROJECT_DIR$/URI_1010/URI_1010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1011/URI_1011.iml" filepath="$PROJECT_DIR$/URI_1011/URI_1011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1012/URI_1012.iml" filepath="$PROJECT_DIR$/URI_1012/URI_1012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1013/URI_1013.iml" filepath="$PROJECT_DIR$/URI_1013/URI_1013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1014/URI_1014.iml" filepath="$PROJECT_DIR$/URI_1014/URI_1014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1016/URI_1016.iml" filepath="$PROJECT_DIR$/URI_1016/URI_1016.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1017/URI_1017.iml" filepath="$PROJECT_DIR$/URI_1017/URI_1017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1018/URI_1018.iml" filepath="$PROJECT_DIR$/URI_1018/URI_1018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1019/URI_1019.iml" filepath="$PROJECT_DIR$/URI_1019/URI_1019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1020/URI_1020.iml" filepath="$PROJECT_DIR$/URI_1020/URI_1020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_1021/URI_1021.iml" filepath="$PROJECT_DIR$/URI_1021/URI_1021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beecrowd.iml" filepath="$PROJECT_DIR$/.idea/beecrowd.iml" />
+    </modules>
+  </component>
+</project>
