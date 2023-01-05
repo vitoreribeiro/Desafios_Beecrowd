@@ -1,4 +1,6 @@
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -13,15 +15,16 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
+        List<Integer> list = new ArrayList<>();
+
         int n = sc.nextInt();
         int maior;
         int menor;
         int soma = 0;
 
-        for(int i = 1; i <= n; i++){
+        while (n > 0){
             int x = sc.nextInt();
             int y = sc.nextInt();
-
             if(x >= y){
                 maior = x;
                 menor = y;
@@ -29,17 +32,18 @@ public class Main {
                 maior = y;
                 menor = x;
             }
-
             for(int j = menor + 1; j < maior; j++){
                 if(j % 2 != 0){
                     soma +=j;
                 }
             }
-
-            System.out.println(soma);
+            list.add(soma);
+            n--;
             soma = 0;
         }
 
+        for (Integer item : list) {
+            System.out.println(item);
+        }
     }
-
 }
